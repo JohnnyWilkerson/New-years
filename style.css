@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: turquoise;
+    text-align: center;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+#msg{
+    color:gold;
+}
+
+img{
+    height: 80%;
+    width: 100%;
+}
